@@ -5,7 +5,7 @@
 % overheating in AM process. The code is written by Rajit Ranjan, PhD     %
 % candidate in The Department of Precision and Microsystems Engineering   %
 % (PME) at TU Delft, Netherlands. Please send your comments to the author %
-% at: r.ranjan@tudelft.nl                                                 %
+% at: ranjan.rajit@gmail.com or r.ranjan@tudelft.nl                                                %
 %                                                                         %
 % A novel constraint with hotspot avoidance is added. The code is based   %
 % on the 88 line top opt code provided by Andreassen et al. (2011).       % 
@@ -27,7 +27,9 @@
 % paper. The code can work with method of moving asymptotes (MMA) for     %
 % optimization and users are encourged to plugin their own MMA code.      %
 % Comments are provided where MMA code needs to be added. Due to this,    %
-% the code cannot be directly used.                                       %
+% the code cannot be directly used. The results in the journal publication%
+% can be replicated using the default parameters and MMA impmentation     %
+% from Prof. Krister Svanberg.
 %                                                                         %
 % Disclaimer:                                                             %
 % The author reserves all rights but does not guaranty that the code is   %
